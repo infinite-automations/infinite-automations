@@ -28,7 +28,7 @@ Explore some of the GitHub Actions tailored for automation workflows:
 
 ### 🐳Container
 
-1. [container-build-push](https://github.com/kaiehrhardt/full-build-push-action)
+1. [container-build-push](https://github.com/kaiehrhardt/full-build-push-action): Simple github action that uses various docker actions to build and publish multiarch container images with meaningful tags.
 
 ## 🎉 Let's Elevate GitHub Actions Together!
 
