@@ -16,8 +16,6 @@ Feel free to share your innovative ideas, vote in polls, and actively collaborat
 
 ## 🚀 Featured GitHub Actions
 
-**[Explore GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=m4s-b3n)**
-
 Explore some of the GitHub Actions tailored for automation workflows:
 
 ### 👷‍♀️ Infrastructure as Code
@@ -28,10 +26,14 @@ Explore some of the GitHub Actions tailored for automation workflows:
 
 3. [Terramate All-In-One](https://github.com/m4s-b3n/terramate-all-in-one): Your go-to resource for Terramate configurations, enhancing your Terraform workflow.
 
+### 🐳Container
+
+1. [container-build-push](https://github.com/kaiehrhardt/full-build-push-action)
+
 ## 🎉 Let's Elevate GitHub Actions Together!
 
 Join us in shaping the future of automation using GitHub Actions. Share your ideas, collaborate with fellow developers, and contribute to creating valuable GitHub Actions. Together, we can simplify workflows, increase efficiency, and achieve automation excellence. Happy coding! 🚀
 
 ---
 
-**[Start Exploring Action Ideas](https://github.com/m4s-b3n/infinite-automations/discussions/categories/ideas) | [Explore GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=m4s-b3n)**
+**[Start Exploring Action Ideas](https://github.com/m4s-b3n/infinite-automations/discussions/categories/ideas) | [Explore m4s-b3n on GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=m4s-b3n) | [Explore kaiehrhardt on GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=kaiehrhardt)**
