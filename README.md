@@ -18,7 +18,7 @@ Feel free to share your innovative ideas, vote in polls, and actively collaborat
 
 **[Explore GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=m4s-b3n)**
 
-Explore some of the GitHub Actions created and enhanced by our community members:
+Explore some of the GitHub Actions tailored for automation workflows:
 
 ### 👷‍♀️ Infrastructure as Code
 
